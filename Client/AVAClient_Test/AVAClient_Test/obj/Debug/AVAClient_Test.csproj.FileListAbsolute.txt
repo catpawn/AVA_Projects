@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\bin\Debug\AVAClient_Test.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\bin\Debug\AVAClient_Test.exe
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\bin\Debug\AVAClient_Test.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\obj\Debug\AVAClient_Test.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\obj\Debug\AVAClient_Test.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\obj\Debug\AVAClient_Test.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\obj\Debug\AVAClient_Test.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\obj\Debug\AVAClient_Test.exe
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\obj\Debug\AVAClient_Test.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AVAClient_Test\AVAClient_Test\obj\Debug\AVAClient_Test.FileRes.resources

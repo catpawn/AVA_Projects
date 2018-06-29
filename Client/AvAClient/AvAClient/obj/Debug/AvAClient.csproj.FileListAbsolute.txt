@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\bin\Debug\AvAClient.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\bin\Debug\AvAClient.exe
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\bin\Debug\AvAClient.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.exe
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.FileRes.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AvAClient\AvAClient\obj\Debug\Interop.Project1.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AvAClient\AvAClient\obj\Debug\AvAClient.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AvAClient\AvAClient\bin\Debug\Interop.Project1.dll

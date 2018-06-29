@@ -1,0 +1,19 @@
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\bin\Debug\AvAClient_Control.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\bin\Debug\AvAClient_Control.exe
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\bin\Debug\AvAClient_Control.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.exe
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\bin\Debug\AvAClient_Control.exe.config
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\bin\Debug\AvAClient_Control.exe
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\bin\Debug\AvAClient_Control.pdb
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.Form1.resources
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.exe
+C:\Users\admin\Documents\GitHub\AVA_Projects\Client\AvAClient_Control\AvAClient_Control\obj\Debug\AvAClient_Control.pdb

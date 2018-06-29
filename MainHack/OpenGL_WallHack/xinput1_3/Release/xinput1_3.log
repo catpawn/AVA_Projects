@@ -1,0 +1,16 @@
+﻿已經開始建置於 28/11/2014 12:00:40。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Admin\Desktop\AVA\OpenGL_WallHack\xinput1_3_wallhack\xinput1_3\xinput1_3.vcxproj"。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\Microsoft DirectX SDK (June 2010)\Include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D XINPUT1_3_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Desktop\AVA\OpenGL_WallHack\xinput1_3_wallhack\Release\xinput1_3.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\Desktop\AVA\OpenGL_WallHack\xinput1_3_wallhack\Release\xinput1_3.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Desktop\AVA\OpenGL_WallHack\xinput1_3_wallhack\Release\xinput1_3.lib" /MACHINE:X86 /SAFESEH /DLL Release\main.obj
+            正在建立程式庫 C:\Users\Admin\Desktop\AVA\OpenGL_WallHack\xinput1_3_wallhack\Release\xinput1_3.lib 和物件 C:\Users\Admin\Desktop\AVA\OpenGL_WallHack\xinput1_3_wallhack\Release\xinput1_3.exp
+         正在產生程式碼
+         已完成程式碼產生
+         xinput1_3.vcxproj -> C:\Users\Admin\Desktop\AVA\OpenGL_WallHack\xinput1_3_wallhack\Release\xinput1_3.dll
+     1>專案 "C:\Users\Admin\Desktop\AVA\OpenGL_WallHack\xinput1_3_wallhack\xinput1_3\xinput1_3.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:03.26
